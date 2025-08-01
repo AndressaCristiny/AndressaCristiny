@@ -83,7 +83,7 @@ Explorando tecnologias que geram impacto, escalabilidade e segurança em projeto
 ## 📬 Vamos conversar!
 
 <p align="center">
-Se você tem um projeto inovador, curte tecnologia ou quer bater um papo sobre sistemas distribuídos, estou sempre aberta para trocar ideias, colaborar ou construir algo incrível juntos!  
+Se você tem um projeto inovador, curte tecnologia ou quer bater um papo sobre tecnologia, estou sempre aberta para trocar ideias, colaborar ou construir algo incrível juntos!  
 </p>
 
 <!--
