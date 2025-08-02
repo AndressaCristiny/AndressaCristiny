@@ -1,5 +1,5 @@
-<!-- Banner 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:10px" alt="Coding in Action" />-->
+<!-- Banner -->
+<img src="/assets/banner.png" width="100%" style="border-radius:10px" alt="Coding in Action" />
 
 <h1 align="center">Olá, eu sou a Andressa Cristiny 👋</h1>
 
@@ -13,6 +13,7 @@ Explorando tecnologias que geram impacto, escalabilidade e segurança em projeto
 ## 🚀 Skills
 
 ### Principal Stack
+
 <div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
   
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -33,11 +34,13 @@ Explorando tecnologias que geram impacto, escalabilidade e segurança em projeto
 </div>
 
 ### Secundária Stack:
+
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ### Estudando no momento:
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -53,7 +56,6 @@ Explorando tecnologias que geram impacto, escalabilidade e segurança em projeto
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-
 
 &nbsp;
 &nbsp;
@@ -97,6 +99,5 @@ Se você tem um projeto inovador, curte tecnologia ou quer bater um papo sobre t
 
 &nbsp;
 &nbsp;
-
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
