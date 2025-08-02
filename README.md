@@ -8,9 +8,18 @@ Desenvolvedora full stack apaixonada por backend, com foco em <strong>Node.js, J
 Explorando tecnologias que geram impacto, escalabilidade e segurança em projetos reais.
 </p>
 
+<p align="center">
+  <a href="https://andressacristiny.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/andressa-cristiny-da-costa-silva-96407b221/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
 &nbsp;
 
-## 🚀 Skills
+## Skills
 
 ### Principal Stack
 
@@ -70,29 +79,6 @@ Explorando tecnologias que geram impacto, escalabilidade e segurança em projeto
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andressacristiny&layout=compact&langs_count=10&theme=radical" />
 
 </div>
-
-&nbsp;
-&nbsp;
-
-## 🌐 Onde me encontrar
-
-<p align="center">
-  <a href="https://andressacristiny.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/andressa-cristiny-da-costa-silva-96407b221/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-&nbsp;
-&nbsp;
-
-## 📬 Vamos conversar!
-
-<p align="center">
-Se você tem um projeto inovador, curte tecnologia ou quer bater um papo sobre tecnologia, estou sempre aberta para trocar ideias, colaborar ou construir algo incrível juntos!  
-</p>
 
 <!--
 <p align="center">
