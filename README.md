@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="/assets/banner.png" width="100%" style="border-radius:10px" alt="Coding in Action" />
+<img src="/assets/banner_v2.png" width="100%" style="border-radius:10px" alt="Coding in Action" />
 
 <!-- <h1 align="center">Olá, eu sou a Andressa Cristiny 👋</h1> -->
 
@@ -33,8 +33,7 @@ Explorando tecnologias que geram impacto, escalabilidade e segurança em projeto
 
 </div>
 
-<!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador"> -->
-<img src="/assets/computer.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 ### Secundária Stack:
 
