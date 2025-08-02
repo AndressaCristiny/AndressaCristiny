@@ -33,7 +33,8 @@ Explorando tecnologias que geram impacto, escalabilidade e segurança em projeto
 
 </div>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador"> -->
+<img src="/assets/computer.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 ### Secundária Stack:
 
