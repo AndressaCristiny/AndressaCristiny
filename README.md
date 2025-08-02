@@ -4,7 +4,7 @@
 <!-- <h1 align="center">Olá, eu sou a Andressa Cristiny 👋</h1> -->
 
 <p align="center">
-Desenvolvedora full stack apaixonada por backend, com foco em <strong>Node.js, Java, Spring</strong> e arquitetura de microsserviços.  
+Desenvolvedora full stack apaixonada por backend, com foco em <strong>Node.js, Nest.js, React.js, Next.js </strong> e arquitetura de microsserviços.  
 Explorando tecnologias que geram impacto, escalabilidade e segurança em projetos reais.
 </p>
 
