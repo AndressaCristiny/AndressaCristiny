@@ -1,7 +1,7 @@
 <!-- Banner -->
 <img src="/assets/banner.png" width="100%" style="border-radius:10px" alt="Coding in Action" />
 
-<h1 align="center">Olá, eu sou a Andressa Cristiny 👋</h1>
+<!-- <h1 align="center">Olá, eu sou a Andressa Cristiny 👋</h1> -->
 
 <p align="center">
 Desenvolvedora full stack apaixonada por backend, com foco em <strong>Node.js, Java, Spring</strong> e arquitetura de microsserviços.  
